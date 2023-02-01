@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Заявка на перевозку"
+    id="id-eae5b64db24b42798bfcda5f752b9664">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7611ab6c1e5a4f8a8a59e83b64054990.xml#id-7611ab6c1e5a4f8a8a59e83b64054990"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-137406d7204c4c20b31053aa499bd718.xml#id-137406d7204c4c20b31053aa499bd718"/>
+</archimate:FlowRelationship>
